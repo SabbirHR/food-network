@@ -5,6 +5,10 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    color: rgb(136, 134, 134);
+    
+}
 .orange-color{
     color: orange;
 }
@@ -14,7 +18,7 @@ h1{
 }
 .half-width{
     width: 50%;
-    padding: 2%;
+    padding: 5%;
 }
 .half-width img{
     width: 80%;
@@ -27,4 +31,6 @@ h1{
     color: white;
     font-size: 700;
 }
-
+.about-me{
+    background-image: url(images/shapes/7.png);
+}
