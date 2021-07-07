@@ -6,9 +6,8 @@ h1{
     font-size: 50px;
 }
 h2{
+    font-size: 30px;
     color: rgb(136, 134, 134);
-    
-    
 }
 p{
     color: grey;
@@ -75,3 +74,21 @@ footer{
     height: 150px;
     padding: 20px;
 }
+button {
+    background-color:red;
+    width: 50%;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .added{
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 5%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px grey;
+  }
